@@ -1,0 +1,52 @@
+*{
+    margin: 0px;
+}
+h5{
+    font-size: 1rem;
+    display: flex;
+    justify-content: center;
+    background-color: red;
+}
+.instruction{
+    margin: 3px;
+    font-size: small;
+    display: flex;
+    justify-content: space-around;
+}
+
+.container {
+    margin-top:4px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    gap: 6rem;
+
+}
+.para{
+    font-size: 13px;
+} 
+.row{
+    display: flex;
+    align-items: center;
+    margin-top: 4px !important;
+}
+.for-card{
+    margin: 0px !important;
+    display: flex;
+    justify-content: space-between ;
+}
+.image{
+    margin-right: 6rem !important;
+}
+.last{
+    display: flex;
+
+}
+.checks{
+    margin-top: 2rem !important;
+    /* background-color: red !important; */
+    border-radius: 1px solid black !important;
+}
+/* .content{
+    background-color: red !important;
+} */
